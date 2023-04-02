@@ -27,3 +27,8 @@
     border-style: double;
     border-radius: 10px;
 }
+
+.navbar-style > a{
+    color: white !important;
+}
+
